@@ -6,5 +6,5 @@ Date Created: 8/27/2016
 
 Future Release:  
 -Add exception  
--Close Program
+-Close Program  
 -Add GUI
